@@ -15,6 +15,10 @@ This tool automates the process of testing URLs with various payloads to detect 
 - Customizable payloads for testing different scenarios
 - Reports potential LFI vulnerabilities in the form of vulnerable URLs
 
+
+  ![Untitled](https://github.com/Aniruddhpathak404/LFI-SCAN/assets/101852962/b845e531-856d-492e-aa46-9ad31a9becd5)
+
+
 ## Usage
 
 1. Clone the repository: `git clone https://github.com/Aniruddhpathak404/LFI-SCAN`
