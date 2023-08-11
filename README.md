@@ -30,6 +30,3 @@ This tool automates the process of testing URLs with various payloads to detect 
 Contributions to this project are welcome! Whether you're experienced in security testing, web development, or have suggestions for improvement, feel free to open issues and pull requests. Let's work together to enhance the tool's functionality and usability.
 
 
----
-
-You can customize and expand upon this template to provide more detailed information about your tool, its features, usage instructions, and the purpose behind it. Make sure to replace placeholders such as `your-username`, `lfi-scanner`, and update paths as needed. Also, include the required dependencies in a `requirements.txt` file if applicable. Lastly, create a `banner.png` image to be displayed at the top of your GitHub repository page.
